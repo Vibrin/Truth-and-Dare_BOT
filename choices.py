@@ -123,6 +123,8 @@ truths = ["What’s the last lie you told?",
 ,
 "What's the weirdest thing you have eaten"
 ,
+"What is your dumbest idea to do in public with your friend?"
+,
 "Have you ever peed in your dream that caused an actual leak"
 ,
 "Have you ever peed,farted and coughed at the same time?"
@@ -165,6 +167,8 @@ dares = ["Call your crush or any random person you never talk and start a random
 "Do jumping jacks for one minute."
 ,
 "Dance for 10 mins."
+,
+"Try something stupid with your female teacher."
 ,
 "Dial a random number and sing ‘Happy Birthday!’"
 ,
